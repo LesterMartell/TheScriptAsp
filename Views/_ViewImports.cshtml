@@ -1,0 +1,19 @@
+﻿@using TheScript_
+@using TheScript_.Models
+@using TheScript_.Controllers
+@using TheScript_.Data;
+@using System.Web;
+{
+    
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<script>
+    function Check() {
+    if (confirm("Вы уверены?")) {
+        return true;
+    } else {
+        return false;
+    }
+}
+</script>

@@ -1,0 +1,26 @@
+@model Branch
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="text">
+    <h1 class="display-4">@Model.Title</h1>
+</div>
+
+@{
+    var sections = InitLayout.Sections.Where(o => o.Id_branch == Model.Id).ToList();
+
+    for (int i = 0; i < sections.Count; i++)
+    {
+        <div>
+            <h2>@(1+i).
+                <a  asp-controller="Home" 
+                    asp-action="Section" 
+                    asp-route-id-branch="@Model.Id" 
+                    asp-route-id_section="@sections[i].Id"
+                    >@sections[i].Title</a>
+            </h2>
+        </div>
+    }
+}

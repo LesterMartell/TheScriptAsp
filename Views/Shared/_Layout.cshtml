@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TheScript</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TheScript_.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+    @* <svg width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+        <path
+        d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0
+        1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+        </svg> *@
+
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid" style="display: inline-block;">
+                <div class="row">
+                    <div class="col-9">
+
+                        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TheScript</a>
+                        @{
+
+                            var branches = InitLayout.Branches;
+
+                            for (int i = 0; i < branches.Count; i++)
+                            {
+                                var sections = InitLayout.Sections.Where(o => o.Id_branch == branches[i].Id).ToList();
+
+                                <div class="btn-group">
+                                    <a class="btn btn-primary" asp-controller="Home" asp-action="Branch"
+                                asp-route-id_branch="@branches[i].Id">@branches[i].Title</a>
+
+                                    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                        <span class="visually-hidden">Переключатель выпадающего списка</span>
+                                    </button>
+
+                                    <ul class="dropdown-menu dropdown-menu-dark" style="">
+
+                                        @for (int j = 0; j < sections.Count; j++)
+                                        {
+                                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Section"
+                                        asp-route-id_branch="@branches[i].Id" asp-route-id_section="@sections[j].Id">
+
+                                                    @sections[j].Title</a></li>
+                                        }
+
+                                    </ul>
+                                </div>
+                            }
+                        }
+                    </div>
+                    <div class="col-3">
+                        @* <input type="text" class="form-control" style="display: inline-block; width: 90%;"
+                            placeholder="Поиск"/> *@
+                        @* <input type="search" class="form-control rounded" placeholder="Search" style="display:
+                            inline-block; width: 80%; vertical-align: middle;" aria-label="Search"
+                            aria-describedby="search-addon" />
+                            <button type="button" class="btn btn-outline-primary">search</button> *@
+
+                        <form class="input-group" asp-action="Search" asp-controller="Home">
+                            <input type="search" class="form-control" style="margin-left: 20%;" name="search_string" placeholder="Поиск" required/>
+                            <button type="input" class="btn btn-primary">
+                            <i class="fas fa-search"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" style="position: absolute;
+                                                        bottom: 0;
+                                                        width: 100%;
+                                                        white-space: nowrap;
+                                                        line-height: 60px;">
+        <div class="d-flex bd-highlight">
+
+            <div class="p-2 flex-grow-1 bd-highlight">
+                &copy; 2022 - TheScript -
+                <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+
+            <partial name="_LoginPartial" />
+
+            @* <div class="p-2 bd-highlight" style="margin-right: 5px;">
+                <a asp-area="Identity" asp-page="/Account/Login">Редактировать</a>
+                <a asp-controller="Edit" asp-action="Index">Редактировать</a>
+                </div> *@
+        </div>
+
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </footer>
+</body>
+
+</html>

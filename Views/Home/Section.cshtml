@@ -1,0 +1,27 @@
+@model Section
+
+@{
+    ViewData["Title"] = Model.Title;
+
+    var chapters = InitLayout.Chapters.Where(o => 
+        o.Id_branch == Model.Id_branch &&
+        o.Id_section == Model.Id).ToList();
+}
+
+<div class="text">
+    <h1 class="display-4">@Model.Title</h1>
+</div>
+    
+    @for (int i = 0; i < chapters.Count; i++)
+    {
+        <div>
+        <hr id="null"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p style="margin: 0 0 0 40px; border: none; padding: 0px;"></p></blockquote><p></p>
+        <h2>@chapters[i].Title</h2>
+        <hr id="null"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p style="margin: 0 0 0 40px; border: none; padding: 0px;"></p></blockquote><p></p>
+        <div>
+            @Html.Raw(chapters[i].HtmlText)
+        </div>
+
+        </div>
+
+}

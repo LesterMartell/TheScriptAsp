@@ -1,0 +1,51 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    @* <li class="nav-item">
+        <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+    </li>
+    <li class="nav-item">
+        <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+        </form>
+    </li> *@
+
+    <form  class="p-2 bd-highlight" asp-controller="Edit" asp-action="Index">
+        <button type="submit" class="btn btn-danger">Редактировать</button>
+    </form>
+
+    <form  class="p-2 bd-highlight" style="margin-right: 5px;" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+        <button type="submit" class="btn btn-info btn-sm">Выйти</button>
+    </form>
+
+    @* <div class="p-2 bd-highlight" style="margin-right: 5px;">
+        @* <a asp-area="Identity" asp-page="/Account/Login">Редактировать</a>
+        <a asp-controller="Edit" asp-action="Index">Редактировать</a>
+    </div> *@
+
+    
+    
+
+}
+else
+{
+    @* <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </li> *@
+
+    @* <div class="p-2 bd-highlight" style="margin-right: 5px;">
+        @* <a asp-area="Identity" asp-page="/Account/Login">Редактировать</a>
+        <a asp-controller="Edit" asp-action="Index">Редактировать</a>
+    </div> *@
+
+    <form  class="p-2 bd-highlight" style="margin-right: 5px;" asp-controller="Edit" asp-action="Index">
+        <button type="submit" class="btn btn-danger">Редактировать</button>
+    </form>
+}
+

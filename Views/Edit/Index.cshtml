@@ -1,0 +1,54 @@
+﻿@model List<Branch>
+
+@{
+    ViewData["Title"] = "Edit Page";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Редактировать сценарий</h1>
+</div>
+
+
+
+<div class="container-fluid">
+    
+    <div>
+        <p>Выберите область, которую необходимо редактировать</p>
+    </div>
+
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <div>
+
+            <p style="font-weight: bold;">@(1+i). @Model[i].Title
+
+                    <a class="btn btn-warning btn-sm" style="margin-left: 12px;" 
+                    asp-controller="Edit"
+                    asp-action="BranchEdit"
+                    asp-route-id_branch="@(Model[i].Id)">
+                        Редактировать</a>
+                    @* <a class="btn btn-danger btn-sm disabled" href="">Удалить</a> *@
+                    <a class="btn btn-danger btn-sm" onclick="return Check()" asp-controller="Edit" asp-action="RemoveBranch" asp-route-id="@(Model[i].Id)">Удалить</a>
+
+            </p>
+
+
+        </div>
+    }
+
+</div>
+
+
+<div class="container-fluid">
+    <a class="btn btn-success" asp-controller="Edit" asp-action="CreateBranch">Создать новую область</a>
+</div>
+
+<script>
+    function Check() {
+    if (confirm("Вы уверены?")) {
+        return true;
+    } else {
+        return false;
+    }
+}
+</script>

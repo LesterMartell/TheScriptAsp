@@ -1,0 +1,66 @@
+
+@model Branch;
+@{
+    var sections = InitLayout.Sections.Where(o => o.Id_branch == Model.Id).ToList();
+}
+@{
+    ViewData["Title"] = "Edit Page - @Model.title";
+}
+
+@* <input type="button" class="btn btn-primary" style="margin-top: 12px;" onclick="history.back();" value="Назад"/> *@
+
+<a asp-controller="Edit" asp-action="Index" class="btn btn-primary" style="margin-top: 12px;">Назад</a>
+
+
+<div class="text-left" style="margin-bottom: 12px;">
+    <h1 class="display-4">Редактировать область</h1>
+</div>
+
+
+
+    <form method="post" asp-action="Save_BranchEdit" asp-controller="Edit">
+
+        <div class="container-fluid">
+            <label for="Title">Название области: </label> 
+            <input class="form-control" id="title" type="text" name="title" value="@Model.Title" required/>
+            <input class="hide" id="id" type="text" name="id" value="@Model.Id" hidden/>
+        </div>
+
+        <h6 style="margin-top: 12px;">Разделы</h4>
+
+        
+
+        @for (int i = 0; i < sections.Count; i++)
+        {
+            <div class="container-fluid">
+
+                <p style="font-weight: bold;">@(1+i). @sections[i].Title
+
+                        <a class="btn btn-warning btn-sm" style="margin-left: 12px;" 
+                        asp-controller="Edit"
+                        asp-action="SectionEdit"
+                        asp-route-id_section="@(sections[i].Id)">
+                            Редактировать</a>
+                        <a class="btn btn-danger btn-sm" onclick="return Check()" asp-controller="Edit" asp-action="RemoveSection" asp-route-id_section="@(sections[i].Id)" asp-route-id_branch="@(Model.Id)">Удалить</a>
+
+                </p>
+
+
+            </div>
+        }
+
+        <div class="container" style="margin-top: 12px;">
+            <a class="btn btn-primary" asp-controller="Edit" asp-action="CreateSection" asp-route-id="@(Model.Id)">Создать новый раздел</a>
+            <input class="btn btn-success" type="submit" value="Сохранить"/>
+        </div>
+    </form>
+
+<script>
+    function Check() {
+    if (confirm("Вы уверены?")) {
+        return true;
+    } else {
+        return false;
+    }
+}
+</script>

@@ -1,0 +1,156 @@
+@model Section;
+@{
+    @* var Chapters = InitLayout.Chapters; *@
+    int Iterator = 0;
+    @* int chapter_count = EditController.dbContext.Chapters.Count(); *@
+}
+
+@{
+    ViewData["Title"] = "Edit Page - @Model.title";
+}
+
+<a class="btn btn-primary" style="margin-top: 12px;" asp-action="BranchEdit" asp-controller="Edit" asp-route-id_branch="@(Model.Id_branch)">Назад</a>
+
+<div class="text-left" style="margin-bottom: 12px;">
+    <h1 class="display-4">Редактировать раздел</h1>
+</div>
+
+@{
+    var chapters = InitLayout.Chapters.Where(o => o.Id_section == Model.Id).ToList();
+}
+
+@* int id_section, string newTitle, List<Chapter> chapters, List<Content> contents *@
+
+<form method="post" asp-action="Save_SectionEdit_All" asp-controller="Edit">
+
+    @* Контейнер для Section *@
+
+    <div class="container-fluid" style="margin-bottom: 12px;">
+        <label for="newTitle">Название раздела:</label>
+        <input class="form-control" name="newTitle" value="@Model.Title" placeholder="Название раздела" required/>
+        <input class="hide disable" name="id_section" value="@Model.Id" hidden />
+    </div>
+
+    <div class="container-fluid" style="margin-bottom: 12px;">
+
+        @* КНОПКА ДОБАВИТЬ ГЛАВУ *@
+
+        <button class="btn btn-success" type="input" onclick='AddHTMLChapter("accordionFlushExample")'>Добавить главу</button>
+        @* <input class="btn btn-success" type="submit" value="Добавить главу" asp-action="SectionAddChapter" asp-controller="Edit"/> *@
+        <a class="btn btn-outline-danger btn-sm" onclick="return Check()" asp-controller="Edit" asp-action="RemoveSection" asp-route-id_section="@(Model.Id)" asp-route-id_branch="@(Model.Id_branch)">Удалить</a>
+    </div>
+
+
+
+    @* Контейнер для Chapter -> внутри него контейнер для Contact's *@
+
+    <div class="accordion" id="accordionFlushExample">
+        @for (int i = 0; i < chapters.Count; i++, Iterator++)
+        {
+            <div class="accordion-item" id='@("accordionFlushExample" + i)'>
+                <h2 class="accordion-header" id="flush-heading@(i)">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#flush-collapse@(i)" aria-expanded="false" style="background-color: #edf7fc"
+                    aria-controls="flush-collapse@(i)">
+                        @(chapters[i].Title)
+                    </button>
+                </h2>
+                <div id="flush-collapse@(i)" class="accordion-collapse collapse" style="background-color: #fff7d9"
+                aria-labelledby="flush-heading@(i)" data-bs-parent="#accordionFlushExample">
+
+
+                    <div class="container-fluid" style="margin-bottom: 12px; padding-top: 12px;">
+                    
+                    <label for="chapters[@i].Title">Название главы:</label>
+                    <div class="row">
+                            <div class="col">
+                                <input class="form-control" name="chapters[@i].Title" value="@(chapters[i].Title)" placeholder="Название главы" required/>
+                            </div>
+                        <div class="col col-lg-2">
+                            <button class="btn btn-outline-danger" type="input" onclick='return CheckRemove("@(i)")'>Удалить главу</button>
+                        </div>
+                    </div>
+
+                        <input class="hide disable" name="chapters[@i].Id" value="@(chapters[i].Id)" hidden />
+                        <input class="hide disable" name="chapters[@i].Id_branch" value="@(chapters[i].Id_branch)" hidden />
+                        <input class="hide disable" name="chapters[@i].Id_section" value="@(chapters[i].Id_section)" hidden />
+                    </div>
+                        <input name="chapters[@i].HtmlText" type="text" value="@(chapters[i].HtmlText)" class="jqte-input" required>
+
+                </div>
+            </div>
+        }
+
+    </div>
+
+    <div class="container" style="margin-top: 12px;">
+        <input class="btn btn-success" type="submit" value="Сохранить изменения" />
+    </div>
+</form>
+
+    <link type="text/css" rel="stylesheet" href="/lib/jquery/dist/jquery-te-1.4.0.css">
+
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <script src="/lib/jquery/dist/jquery-te-1.4.0.min.js" charset="utf-8"></script>
+
+<script>
+    $('.jqte-input').jqte();
+    
+    class Counter {
+        constructor(counter) {
+            this.counter = counter;
+        }
+
+        goUp() {
+            this.counter = this.counter + 1;
+        }
+    }
+
+    let _counter = new Counter(@(Iterator));
+
+    function AddHTMLChapter(idElement) {
+        const div = document.getElementById(idElement)
+
+        var counter = _counter.counter;
+
+        div.insertAdjacentHTML("beforeend",
+        "<input class='form-control' name='chapters[" + counter + "].Title' value='Новая глава' placeholder='Название главы' hidden/>" +
+        "<input class='hide disable' name='chapters[" + counter + "].Id' value='0' hidden />" +
+        "<input class='hide disable' name='chapters[" + counter + "].Id_branch' value='@(Model.Id_branch)' hidden />" +
+        "<input class='hide disable' name='chapters[" + counter + "].Id_section' value='@(Model.Id)' hidden />" +
+        "<input name='chapters[" + counter + "].HtmlText' type='text' value='Новая глава' class='jqte-input' id='newJQTE" + counter + "' hidden>" +
+        "<input class='hide disable' name='newChapter' value='create' hidden/>"
+        );
+
+        _counter.goUp();
+    }
+</script>
+
+<script>
+    function Check() {
+    if (confirm("Вы уверены?")) {
+        return true;
+    } else {
+        return false;
+    }
+    }
+</script>
+
+
+<script>
+    function CheckRemove(idElement)
+    {
+        if (confirm("Вы уверены?")) {
+            const div = document.getElementById("accordionFlushExample");
+
+            div.insertAdjacentHTML("afterend", `<input class='hide disable' name='newChapter' value="remove" hidden/>
+            <input class='hide disable' name='removeChapter' value="${idElement}" hidden/>`);
+
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    
+</script>

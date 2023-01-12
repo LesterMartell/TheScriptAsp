@@ -1,0 +1,779 @@
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/appsettings.Development.json
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/appsettings.json
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/TheScript_.staticwebassets.runtime.json
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/TheScript_
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/TheScript_.deps.json
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/TheScript_.runtimeconfig.json
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/TheScript_.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/TheScript_.pdb
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Humanizer.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/Mono.TextTemplating.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/System.CodeDom.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/workspaces/TheScript/TheScript_/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.csproj.AssemblyReference.cache
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.AssemblyInfoInputs.cache
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.AssemblyInfo.cs
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.csproj.CoreCompileInputs.cache
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cache
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cs
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets/msbuild.TheScript_.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets/msbuild.build.TheScript_.props
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TheScript_.props
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TheScript_.props
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets.pack.json
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets.build.json
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/staticwebassets.development.json
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/scopedcss/bundle/TheScript_.styles.css
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/scopedcss/projectbundle/TheScript_.bundle.scp.css
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.csproj.CopyComplete
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.dll
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/refint/TheScript_.dll
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.pdb
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/TheScript_.genruntimeconfig.cache
+/workspaces/TheScript/TheScript_/obj/Debug/net7.0/ref/TheScript_.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/appsettings.Development.json
+/workspaces/TheScriptAsp/bin/Debug/net7.0/appsettings.json
+/workspaces/TheScriptAsp/bin/Debug/net7.0/TheScript_.staticwebassets.runtime.json
+/workspaces/TheScriptAsp/bin/Debug/net7.0/TheScript_
+/workspaces/TheScriptAsp/bin/Debug/net7.0/TheScript_.deps.json
+/workspaces/TheScriptAsp/bin/Debug/net7.0/TheScript_.runtimeconfig.json
+/workspaces/TheScriptAsp/bin/Debug/net7.0/TheScript_.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/TheScript_.pdb
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Humanizer.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/System.CodeDom.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/workspaces/TheScriptAsp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.AssemblyReference.cache
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.AssemblyInfoInputs.cache
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.AssemblyInfo.cs
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.CoreCompileInputs.cache
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cache
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cs
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.TheScript_.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.build.TheScript_.props
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TheScript_.props
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TheScript_.props
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets.pack.json
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets.build.json
+/workspaces/TheScriptAsp/obj/Debug/net7.0/staticwebassets.development.json
+/workspaces/TheScriptAsp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/workspaces/TheScriptAsp/obj/Debug/net7.0/scopedcss/bundle/TheScript_.styles.css
+/workspaces/TheScriptAsp/obj/Debug/net7.0/scopedcss/projectbundle/TheScript_.bundle.scp.css
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.CopyComplete
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.dll
+/workspaces/TheScriptAsp/obj/Debug/net7.0/refint/TheScript_.dll
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.pdb
+/workspaces/TheScriptAsp/obj/Debug/net7.0/TheScript_.genruntimeconfig.cache
+/workspaces/TheScriptAsp/obj/Debug/net7.0/ref/TheScript_.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/appsettings.Development.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/appsettings.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/TheScript_.staticwebassets.runtime.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/TheScript_.exe
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/TheScript_.deps.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/TheScript_.runtimeconfig.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/TheScript_.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/TheScript_.pdb
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Humanizer.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/System.CodeDom.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.AssemblyReference.cache
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.GeneratedMSBuildEditorConfig.editorconfig
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.AssemblyInfoInputs.cache
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.AssemblyInfo.cs
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.CoreCompileInputs.cache
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cs
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cache
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cache
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cs
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.TheScript_.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.build.TheScript_.props
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TheScript_.props
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TheScript_.props
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets.pack.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets.build.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/staticwebassets.development.json
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/scopedcss/bundle/TheScript_.styles.css
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/scopedcss/projectbundle/TheScript_.bundle.scp.css
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.CopyComplete
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/refint/TheScript_.dll
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.pdb
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/TheScript_.genruntimeconfig.cache
+D:/Лестер/Visual Studio Projects/ASP_TheScript/TheScriptAsp/obj/Debug/net7.0/ref/TheScript_.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/appsettings.Development.json
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/appsettings.json
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/TheScript_.staticwebassets.runtime.json
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/TheScript_
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/TheScript_.deps.json
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/TheScript_.runtimeconfig.json
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/TheScript_.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/TheScript_.pdb
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Humanizer.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.CodeDom.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.AssemblyReference.cache
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.AssemblyInfoInputs.cache
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.AssemblyInfo.cs
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.CoreCompileInputs.cache
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cache
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.RazorAssemblyInfo.cs
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.TheScript_.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.build.TheScript_.props
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TheScript_.props
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TheScript_.props
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets.pack.json
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets.build.json
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/staticwebassets.development.json
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/scopedcss/bundle/TheScript_.styles.css
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/scopedcss/projectbundle/TheScript_.bundle.scp.css
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.csproj.CopyComplete
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.dll
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/refint/TheScript_.dll
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.pdb
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/TheScript_.genruntimeconfig.cache
+/workspaces/MyNewRepository/TheScriptAsp/obj/Debug/net7.0/ref/TheScript_.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.Build.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.Common.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.Configuration.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.Frameworks.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.Packaging.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.Protocol.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/NuGet.Versioning.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Composition.Convention.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Composition.Hosting.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Composition.Runtime.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Drawing.Common.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Security.Permissions.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/System.Windows.Extensions.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/MyNewRepository/TheScriptAsp/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\appsettings.Development.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\appsettings.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\TheScript_.staticwebassets.runtime.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\TheScript_.exe
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\TheScript_.deps.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\TheScript_.runtimeconfig.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\TheScript_.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\TheScript_.pdb
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Humanizer.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.Common.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.CodeDom.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.csproj.AssemblyReference.cache
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.AssemblyInfoInputs.cache
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.AssemblyInfo.cs
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.csproj.CoreCompileInputs.cache
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.MvcApplicationPartsAssemblyInfo.cs
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.MvcApplicationPartsAssemblyInfo.cache
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.RazorAssemblyInfo.cache
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.RazorAssemblyInfo.cs
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets\msbuild.TheScript_.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets\msbuild.build.TheScript_.props
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TheScript_.props
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TheScript_.props
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\scopedcss\bundle\TheScript_.styles.css
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\scopedcss\projectbundle\TheScript_.bundle.scp.css
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.csproj.CopyComplete
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\refint\TheScript_.dll
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.pdb
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\TheScript_.genruntimeconfig.cache
+D:\Лестер\Visual Studio Projects\AspTheScript\newVersion\TheScriptAsp\obj\Debug\net7.0\ref\TheScript_.dll
