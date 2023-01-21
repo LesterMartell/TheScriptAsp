@@ -22,7 +22,9 @@ public class HomeController : Controller
     // Начальная страница
     public IActionResult Index()
     {
-        return View();
+        List<Logger> _log = dbContext.Log.ToList();
+
+        return View(_log);
     }
 
     // Политика конфиденциальности

@@ -38,6 +38,8 @@ public class EditController : Controller
     {
         dbContext.CreateBranch("Новая область");
         
+        dbContext.CreateLog("Создана новая область.");
+
         return Redirect("~/Edit/Index");
     }
 
