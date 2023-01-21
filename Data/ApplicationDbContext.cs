@@ -9,6 +9,8 @@ public class ApplicationDbContext : IdentityDbContext
     public DbSet<Branch> Branches { get; set; }
     public DbSet<Section> Sections { get; set; }
     public DbSet<Chapter> Chapters { get; set; }
+    public DbSet<Logger> Log {get; set;}
+
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
     {
@@ -137,6 +139,24 @@ public class ApplicationDbContext : IdentityDbContext
     public void RemoveChapter(int id)
     {
         Chapters.Remove(Chapters.Find(id));
+
+        SaveChanges();
+    }
+
+    #endregion
+
+    #region Logger
+
+    public void CreateLog(string log)
+    {
+        Log.Add(new Logger(log));
+
+        SaveChanges();
+    }
+
+    public void RemoveLog(int id)
+    {
+        Log.Remove(Log.Find(id));
 
         SaveChanges();
     }
