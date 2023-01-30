@@ -9,7 +9,7 @@
 {
     <div style="margin-left: 12px;">
         <h3>
-            <a href="">@(HomeController.dbContext.Sections.Find(Model[i].Id_section).Title) - @(Model[i].Title)</a>
+            <a href="Section?id-branch=@(Model[i].Id_branch)&id_section=@(Model[i].Id_section)">@(HomeController.dbContext.Sections.Find(Model[i].Id_section).Title) - @(Model[i].Title)</a>
         </h3>
         <div style="margin-left: 24px; margin-top: 12px;">
             @(Html.Raw(Model[i].HtmlText))
